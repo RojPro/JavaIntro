@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"encapSulation","l":"MathOp"}]

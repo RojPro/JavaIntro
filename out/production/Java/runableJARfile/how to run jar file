@@ -1,0 +1,17 @@
+
+to run jar file runnable go to name project choose export --->to java runnable jar file
+
+after create the file
+go to path file and type this command for windows & mac
+
+( java -jar nameOfYourProject.jar)
+
+
+this test for mac
+OSs-MacBook-Pro:Java os$ java -jar runableClc.jar
+no main manifest attribute, in runableClc.jar
+OSs-MacBook-Pro:Java os$ java -jar clc.jar
+1:Add ,2:sub ,3:Mult ,4:Div:1
+Enter the First No :2
+Enter the Second No :2
+4.0

@@ -1,0 +1,9 @@
+
+
+use this command for how to make directory
+
+command 1 :
+mkdir() : only you can create just one directory for example : (/home);
+
+command 2
+mkdirs() : you can  create multi directory for example (/home/robin/n/...etc);

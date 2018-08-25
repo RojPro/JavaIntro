@@ -1,0 +1,28 @@
+
+after export file to jar now go to how run application in terminal for and cmd for window
+
+for windows test :
+run cmd and type this comand
+java -classpath .;clcExam.jar encapSulation.Custem_clc
+
+
+
+for mac test :
+OSs-MacBook-Pro:Documents os$ cd Java
+OSs-MacBook-Pro:Java os$ ls
+IOScanner.txt			buff.text
+Java.iml			clcExam.jar
+Munir Ahmad.txt			doc
+NewflieCopy.txt			java pirimitve.pdf
+Test.txt			java.txt
+TestAppendExam2.txt		javaDEV.txt
+TestDir				libio
+TestDirs			newFile.text
+Text1				out
+Text2				src
+api java docs.rtf		what is the pubblic class.rtf
+OSs-MacBook-Pro:Java os$ java -classpath .:clcExam.jar encapSulation.Custem_clc
+1:Add ,2:sub ,3:Mult ,4:Div:1
+Enter the First No :5
+Enter the Second No :2
+7.0
